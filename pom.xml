@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Jesus Faith Releases Nexus Repository</name>
+	      <name>addycho17 Releases Nexus Repository</name>
 	      <url>http://52.23.160.172:8081/repository/paypal-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Jesus Faith Snapshot Nexus Repository </name>
+	      <name>addycho17 Snapshot Nexus Repository </name>
 	      <url>http://52.23.160.172:8081/repository/paypal-snapshot/</url>
 	    </snapshotRepository>
 	    
